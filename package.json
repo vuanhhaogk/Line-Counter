@@ -1,0 +1,25 @@
+{
+  "name": "lcount",
+  "version": "1.0.0",
+  "description": "How many code lines in my project?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "lcount": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuanhhaogk/Line-Counter.git"
+  },
+  "author": "Vu Anh Hao <vuanhhaogk@gmail.com> (https://vuanhhao.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuanhhaogk/Line-Counter/issues"
+  },
+  "homepage": "https://github.com/vuanhhaogk/Line-Counter#readme",
+  "dependencies": {
+    "commander": "^2.12.2"
+  }
+}
